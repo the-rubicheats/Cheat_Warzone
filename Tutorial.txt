@@ -1,3 +1,26 @@
-Usage: hookloader.exe Brazilian.dll no CMD or drag Brazilian.dll into hookloader.exe
+💻 Cheat Execution Tutorial: 
+⚙️ Step 1 - Run Spotify.exe as Administrator
 
-Como usar: hookloader.exe Brazilian.dll no CMD ou arraste Brazilian.dll para hookloader.exe
+Locate the Spotify.exe file in the folder.
+
+Right-click on it.
+
+Select "Run as administrator".
+
+🔒 IMPORTANT: This is necessary for all permissions to be released correctly.
+
+🛠️ Step 2 - Install LG HUB
+
+After opening Spotify.exe, click the "Install LG HUB" button.
+
+Wait for the installation to complete.
+
+It may take a few minutes depending on your internet connection.
+
+🚫 Step 3 - Disable Automatic Updates
+
+Open LG HUB after installation.
+
+Go to Settings (Settings).
+
+Uncheck the automatic update option to avoid future conflicts.
