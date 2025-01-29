@@ -36,15 +36,13 @@ Este cheat combina as melhores funcionalidades do mercado com tecnologia inovado
 
 1. **Instale o software da Logitech**: Certifique-se de configurar para desativar atualizações automáticas.  
 2. **Inicie o Warzone**: Coloque o jogo no **modo janela sem bordas** ou **modo janela**.  
-3. **Desative processos conflitantes**: Verifique no Gerenciador de Tarefas por processos similares ao RubiAIM e encerre-os.  
-4. **Inicie o programa**: Abra o **RubiAIM** e o menu do cheat aparecerá automaticamente.  
-5. **Garanta segurança máxima**: Certifique-se de ativar o **HVCI** no sistema para maior proteção e funcionamento adequado.  
+3. **Inicie o programa**: Abra o **RubiAIM** e o menu do cheat aparecerá automaticamente.  
 
 ---
 
 ## **PRÉ-REQUISITOS:**  
 
-- **Windows 10/11** com isolamento de núcleo ativado (**HVCI**)  
+- **Windows 10/11** 🇧🇷
 - Driver personalizado RubiAIM para movimentação otimizada  
 - Configuração no modo janela ou janela sem bordas  
 
