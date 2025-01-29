@@ -30,7 +30,7 @@ Este cheat combina as melhores funcionalidades do mercado com tecnologia inovado
 
 ---
 
-## **COMO CONFIGURAR A VERSÃO GRATUITA:**  
+## **COMO CONFIGURAR O CHEAT:**  
 
 ![preview](Resources/LG_Exploit.PNG)
 
